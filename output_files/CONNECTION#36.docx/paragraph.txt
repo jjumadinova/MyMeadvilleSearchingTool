@@ -1,0 +1,49 @@
+Elizabeth Adams=Interviewer
+
+Unknown=Interviewee
+
+Interviewer: My name is Elizabeth Adams and I am working for My Meadville, which is trying to determine what the community wants, and what can make it better. Is it ok that I am recording you?
+
+R: Yes.
+
+Interviewer: What do you love about the city of Meadville?
+
+R: The season changes, I love the weather around here. 
+
+Interviewer: What matters to you most about living here? 
+
+R: The rural community, hunting, fishing availabilities.
+
+Interviewer: What is your favorite memory of living in Meadville?
+
+R: The birth of my children. 
+
+Interviewer: Why do you stay in, and what brought you to Meadville?
+
+R: I'm from, from here, family lives here. I like the area. Close to my immediate family.
+
+Interviewer: What would you, what would make staying here easier?
+
+R: Pause... If we had a little more sunshine.
+
+Interviewer: What things capture the spirit of our town?
+
+R: Tool and die trade, all of the old-time shops. 
+
+Interviewer: What would you miss in Meadville if it wasn't here?
+
+R: French Creek.
+
+Interviewer: Ok. What it about Meadville is important in, to continue into the future?
+
+R: Training our workforce, s so that manufacturing can survive.
+
+Interviewer: What do you want your children or grandchildren to experience here when they grow up?
+
+R: Hunting and fishing, that it's still available.
+
+Interviewer: What would you change to make Meadville even better? Or if you could have one wish for Meadville, what would it be?
+
+R: Have a top-notch training center, in Meadville, for tool and die.
+
+Interviewer: Thank you.
