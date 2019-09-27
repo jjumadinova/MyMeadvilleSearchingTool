@@ -1,3 +1,5 @@
+# Results of the Text Mining for Youth Programming Project
+# Summer 2019
 
 ## File
  /output_files/Copy of Unitarian story circle LS_2_17 Transcribed.docx/sum.md
