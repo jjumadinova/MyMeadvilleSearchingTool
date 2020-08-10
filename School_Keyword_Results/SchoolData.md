@@ -1,6 +1,6 @@
 # My Meadville Youth Data
 
-Data on MASH from My Meadville interviews extracted by the learning algorithm.
+Data on school-related keywords from My Meadville interviews extracted by the learning algorithm.
 
 ## Results for youth-related keywords
 Another set of programs is then run on the output of the learning algorithm. These programs

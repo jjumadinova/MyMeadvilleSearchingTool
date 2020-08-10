@@ -23,9 +23,13 @@ def help():
 #end of help()
 
 
-SUM_FILE = "sum.md"
+SUM_FILE = "paragraph.txt" #"sum.md"
 #FILE_EXTENTION = "txt"
 KEYWORDS_list = [
+    "school",
+    "education",
+    "students",
+    "teachers",
     "MASH"]
 
 
