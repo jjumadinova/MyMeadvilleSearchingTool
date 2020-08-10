@@ -1,3 +1,5 @@
+# Results of the Text Mining for School-related Keywords on the Original Interviews
+# Summer 2020
 
 ## File 
  ../summarization_output/Interview Transcript_Sarah.docx/paragraph.txt
