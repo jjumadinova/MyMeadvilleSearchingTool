@@ -26,15 +26,7 @@ def help():
 SUM_FILE = "sum.md"
 #FILE_EXTENTION = "txt"
 KEYWORDS_list = [
-    "children",
-    "grow meadville",
-    "park",
-    "parks",
-    "play",
-    "youth",
-    "park programs",
-    "teen",
-    "summer"]
+    "MASH"]
 
 
 # class to parse each file
